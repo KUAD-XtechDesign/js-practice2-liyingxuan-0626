@@ -23,7 +23,6 @@ $(function(){
         },1000)
     })
 
-
     $("#button04").on("click",function(){
             hako = 0;
             $("#content").text(hako);
