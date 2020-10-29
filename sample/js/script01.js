@@ -37,9 +37,6 @@ $(function(){
        samTwo(num1,num2);
        samTwo(txt1,txt2);
     })
-    
-
-
 })
    
    
